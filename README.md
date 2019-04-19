@@ -8,6 +8,10 @@ Annotated OCP Java SE 8 Programmer II Exam (1Z0-809) Content Outline
 - Override hashCode, equals, and toString methods from Object class
 - Create and use singleton classes and immutable classes
 - Develop code that uses static keyword on initialize blocks, variables, methods, and classes
+   - static initialize blocks -- ...
+   - static variables -- shared by / common to all instances of a class
+   - static methods -- can be invoked without creating an instance of class
+   - static classes -- static nested classes...
 
 ## Generics and Collections
 - Create and use a generic class
