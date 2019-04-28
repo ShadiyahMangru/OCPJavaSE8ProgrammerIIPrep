@@ -1,6 +1,6 @@
 # OCP Java SE 8 Programmer II Prep
 Annotated OCP Java SE 8 Programmer II Exam (1Z0-809) Content Outline
-## UPDATES TO THIS README MIGRATED TO HERE: https://s3.amazonaws.com/shadiyahsbucket/OCPPrep.html
+## UPDATES TO THIS README MIGRATED TO HERE: https://s3.amazonaws.com/techskills/index.html
 
 ## Java Class Design
 - Implement encapsulation
